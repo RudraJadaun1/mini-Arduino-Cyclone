@@ -38,10 +38,10 @@ I designed the schematics and routed the PCB using **EasyEDA**. This took about 
 * **Display:** 15x 5mm LEDs (Red/Green) + 1x Common Cathode RGB LED.
 * **Connection:** Internal wiring uses jumper wires soldered directly to the board to manage the complex connections.
 
-![PCB Design](<img width="442" height="442" alt="PCB_PCB_cyclone_2025-11-26" src="https://github.com/user-attachments/assets/0689c455-140d-4558-b530-3f4bc7fc48b8" />
-)
-![PCB Design](<img width="1169" height="827" alt="image" src="https://github.com/user-attachments/assets/19e183ab-e989-4554-a254-9e91ecc0e6bb" />
-)
+<img width="442" height="442" alt="PCB_PCB_cyclone_2025-11-26" src="https://github.com/user-attachments/assets/3268d3e1-b18e-4fdf-9d1a-70d09c643d81" />
+
+<img width="1169" height="827" alt="image" src="https://github.com/user-attachments/assets/3b8e89dc-b233-45f8-af26-b9f581ba5fd1" />
+
 
 ### Enclosure & Design
 The physical body was prototyped in **Fusion 360** and then built by hand.
@@ -49,16 +49,16 @@ The physical body was prototyped in **Fusion 360** and then built by hand.
 * **Body:** Constructed from cardboard reinforced with craft paper for a cleaner look.
 * **Switch:** A custom switch case fabricated from ice cream sticks and a reshaped marker cap.
 
-![3D Design](<img width="1338" height="568" alt="image" src="https://github.com/user-attachments/assets/f71d5551-ada4-4f6f-9cd4-65ad7f34cf75" />
-)
+<img width="643" height="578" alt="image" src="https://github.com/user-attachments/assets/923b11da-91c8-4909-bf43-26aed37cec43" />
 
-![3D Design](<img width="643" height="578" alt="image" src="https://github.com/user-attachments/assets/fa2f8027-d4b6-461a-8eda-9150af13f94e" />
-)
+<img width="1338" height="568" alt="image" src="https://github.com/user-attachments/assets/a2375d06-3b5f-4644-b08e-6549285e5f94" />
+
 
 ### Power Supply
 To make the game portable, I built a custom power supply. I salvaged a charging module and battery from an old, broken power bank, soldered them together, and integrated them into the case.
-![power supply](<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/af3405bf-cd06-4366-a3bd-62ed56950d4b" />
-)
+
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/7c66dec9-e540-46f4-8685-502a55a32aec" />
+
 
 ## Repository Structure
 
@@ -68,8 +68,8 @@ To make the game portable, I built a custom power supply. I salvaged a charging 
 
 ## Final project
 
-![Finished Project](<img width="771" height="1024" alt="image" src="https://github.com/user-attachments/assets/ddd0a7fc-2d24-43d7-8e9d-6d77f6e0f2be" />
-)
+<img width="771" height="1024" alt="image" src="https://github.com/user-attachments/assets/8cb7148e-dde1-45be-9c28-ea1b3bb31ed8" />
+
 *The final assembled unit.*
 
 *Created by Rudra Jadaun aka Graphorn*
