@@ -1,5 +1,5 @@
-mini Arcade cyclone game
-# 3D CAD
+# mini Arcade cyclone game
+## 3D CAD
 <img width="1024" height="552" alt="image" src="https://github.com/user-attachments/assets/da4d4aaf-1acc-4920-af32-94cda0503198" />
 <img width="643" height="578" alt="image" src="https://github.com/user-attachments/assets/d496ee5a-713e-4363-836b-e686b14e6469" />
 # The circuit design
