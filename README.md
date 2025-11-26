@@ -11,7 +11,7 @@ This project brings the functionality of a  large arcade Cyclone game into a por
 
 I designed this project to practice PCB design, circuit integration, and utilizing recycled components for power. It combines a custom plywood top plate with 3D modeling concepts to create a fully functional game.
 
-## ✨ Key Features
+## Key Features
 
 * **Classic Arcade Logic:** LEDs chase in a circle; pressing the button stops the sequence instantly.
 * **Win/Loss Indication:** A center RGB LED provides immediate visual feedback—lighting up **White** for a win and **Red** for a loss.
@@ -19,7 +19,7 @@ I designed this project to practice PCB design, circuit integration, and utilizi
 * **Recycled Power System:** Powered by a custom battery power bank from a broken power bank.
 * **Handcrafted Design:** The enclosure features a hand-drilled plywood faceplate and a custom switch mechanism.
 
-## ⚙️ How It Works
+## How It Works
 
 The brain of the project is an **Arduino Mega**.
 1.  **The Loop:** The code (written in C) cycles through the outer ring of LEDs one by one to create a "chasing" effect.
@@ -28,7 +28,7 @@ The brain of the project is an **Arduino Mega**.
     * If the active LED is the "Target" LED, the center RGB turns green.
     * If it stops anywhere else, the center RGB turns Red.
 
-## 🛠️ Build Process & Hardware
+## Build Process & Hardware
 
 The project was built in several stages, combining electronics engineering with physical crafting.
 
@@ -60,13 +60,13 @@ To make the game portable, I built a custom power supply. I salvaged a charging 
 ![power supply](<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/af3405bf-cd06-4366-a3bd-62ed56950d4b" />
 )
 
-## 📂 Repository Structure
+## Repository Structure
 
 * `/CAD` - Fusion 360 rough models.
 * `/Schematics` - EasyEDA schematic files and PCB views.
 * `/Code` - The C code for the Arduino Mega.
 
-## 📸 Gallery
+## Final project
 
 ![Finished Project](<img width="771" height="1024" alt="image" src="https://github.com/user-attachments/assets/ddd0a7fc-2d24-43d7-8e9d-6d77f6e0f2be" />
 )
